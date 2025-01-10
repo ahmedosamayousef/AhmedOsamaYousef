@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ahmed Yousef
+A fresh Software Engineering Graduate passionate about front-end development and UI/UX design.
+---
 
-<!--
-**ahmedosamayousef/AhmedOsamaYousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 **Graduation Project, Grade (A+)**: 
+  - **Blueprint**: A freelancer-project manager platform merging LinkedIn and Upwork.  
+  - **My Contributions**:  
+    - Document diagrams (use cases, sequence diagrams, etc.)  
+    - UI/UX design  
+    - Collaboration in the web development phase  
 
-Here are some ideas to get you started:
+- 🌱 **Currently Learning**: Front-end development through the [Meta Front-End Development Course](https://www.coursera.org/professional-certificates/meta-front-end-developer) on Coursera.  
+- 🎯 **Focus Areas**: Web development and UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Languages**: HTML, CSS, JavaScript, Jaca 
+- **Frameworks**: React
+- **Design**: Figma, Canva
+- **Other Tools**: Git, GitHub, VS Code
+
+---
+
+## 🌐 LinkedIn:  (https://www.linkedin.com/in/ahmed-yousef03/)   
+
